@@ -3,6 +3,7 @@ import MovieList from './moviesList';
 import Nav from './Nav';
 import {MovieProvider} from './MovieListContext';
 import AddMovie from './AddMovie';
+import './master.scss';
 
 function App() {
   return (
